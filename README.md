@@ -1,8 +1,30 @@
-# React + Vite
+# Barber Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page de uma barbearia fictícia, com a funcionalidade de troca de tema.
 
-Currently, two official plugins are available:
+### Tecnologias Utlizadas:
+![](https://img.shields.io/badge/pnpm-20232A?style=for-the-badge&logo=pnpm)
+![](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Quer executar esse projeto?
+Você pode clonar este repositório, ou baixa-lo como .zip
+Em seguida, com o projeto na sua máquina, basta executar o seguinte comando:
+```bash
+# caso use o npm
+> npm install
+# iniciar o projeto localmente
+> npm run dev
+
+# caso use o yarn
+> yarn install
+# iniciar o projeto localmente
+> yarn run dev
+
+# caso use o pnpm
+> pnpm install
+# iniciar o projeto em localmente
+> pnpm run dev
+
+```
