@@ -1,12 +1,11 @@
 # Barber Shop
 
-Landing page de uma barbearia fictícia, com a funcionalidade de troca de tema.
+Landing page de uma barbearia fictícia, com a funcionalidade de troca de tema. Acesse a página <a href="https://barbershop-one.vercel.app/">aqui!</a>
 
 ### Tecnologias Utlizadas:
 ![](https://img.shields.io/badge/pnpm-20232A?style=for-the-badge&logo=pnpm)
 ![](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 ### Quer executar esse projeto?
 Você pode clonar este repositório, ou baixa-lo como .zip
